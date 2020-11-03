@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 25px;
+}
+img {
+    transition:transform 5s;
+    margin-left: 20px;
+}
+img:hover {
+    transform: rotate(10deg);
+}
+.Line{
+    width: 200px;
+    height: 6px;
+    background-color: darkturquoise;
+    margin: 8px auto;
+}
